@@ -1,0 +1,7 @@
+* {padding: 10px; margin: 0;}
+h3 {margin-top: 15px;}
+body {text-align: center; background-color: rgb(245, 245, 92);font-size: 25px;}
+p {line-height: 8px;}
+li{list-style: none; line-height: 15px;}
+
+/* Este archivo CSS es solo para que el archivo HTML donde quise abordar los temas de la semana y donde esta el archivo JS, se vea bonito. */
